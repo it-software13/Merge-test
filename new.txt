@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Choppa Ashok
-=======
-Ashok it person
->>>>>>> ac631205be6c92c365d96c194974de7207c3c423
+ok
